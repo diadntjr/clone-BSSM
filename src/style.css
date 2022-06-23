@@ -28,14 +28,20 @@ a:visited {
 }
 
 ul li {
-  list-style-type: none;
   float: left;
   margin-left: 20px;
+  margin-right: 10px;
 }
+
+li::marker {
+  color: #BABECC
+}
+
+.li1 { list-style-type : none }
 
 .Header {
   width: 100%;
-  padding: 30px 25px;
+  padding: 30px 25px 0px;
   font-family: 'Regular';
   display: flex;
   color: #333333;
@@ -45,7 +51,7 @@ ul li {
 
 .area_header .top_menu{
   width: auto;
-  padding-right: 20px !important;
+  padding-right: 20px;
   
 }
 
@@ -60,4 +66,28 @@ ul li {
 }
 .top_menu{
     right: 0;
+}
+
+.search {
+  position: relative;
+}
+
+.header-search-icon {
+  position: absolute;
+}
+
+.headerList {
+  margin-left: 20px;
+  color: #333333;
+  font-size: 19px;
+  font-family: Medium;
+  margin-bottom: 10px;
+}
+
+.nav--block {
+  padding: 10px;
+}
+
+.imgContainer {
+  position: static;
 }
