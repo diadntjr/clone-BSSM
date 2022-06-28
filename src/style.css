@@ -45,7 +45,7 @@ li::marker {
   font-family: 'Regular';
   display: flex;
   color: #333333;
-  size: 14px;
+  font-size: 14px;
   align-items: auto;
 }
 
@@ -90,4 +90,32 @@ li::marker {
 
 .imgContainer {
   position: static;
+}
+
+.noticeText {
+  color: white;
+  font-size: 19px;
+  font-family: Medium;
+  background-color: green;
+  padding-left: 50px;
+  padding-top: 14px;
+  padding-right: 50px;
+  padding-bottom: 12px;
+}
+
+.greenBar {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  display: flex;
+}
+
+.contentText {
+  color: white;
+  font-size: 18px;
+  font-family: Medium;
+  background-color: #4DB02C;
+  padding-top: 14px;
+  padding-right: 20px;
+  padding-bottom: 12px;
 }
