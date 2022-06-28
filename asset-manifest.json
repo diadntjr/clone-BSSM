@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.c8b56ed9.css",
-    "main.js": "/static/js/main.739cad13.js",
-    "static/js/787.de4aefd3.chunk.js": "/static/js/787.de4aefd3.chunk.js",
-    "static/media/flept1.jpg": "/static/media/flept1.57ca036ae17e0dafad97.jpg",
-    "static/media/NotoSansKR-Regular-Hestia.woff": "/static/media/NotoSansKR-Regular-Hestia.0091f12f78433f45526f.woff",
-    "static/media/NotoSansKR-Regular.woff2": "/static/media/NotoSansKR-Regular.471553e26cd19e067eb8.woff2",
-    "static/media/NotoSansKR-Medium.woff2": "/static/media/NotoSansKR-Medium.c5c73df8a88f854ef6e8.woff2",
-    "index.html": "/index.html",
-    "main.c8b56ed9.css.map": "/static/css/main.c8b56ed9.css.map",
-    "main.739cad13.js.map": "/static/js/main.739cad13.js.map",
-    "787.de4aefd3.chunk.js.map": "/static/js/787.de4aefd3.chunk.js.map"
+    "main.css": "/clone-BSSM/static/css/main.d158566d.css",
+    "main.js": "/clone-BSSM/static/js/main.2dcf2e32.js",
+    "static/js/787.de4aefd3.chunk.js": "/clone-BSSM/static/js/787.de4aefd3.chunk.js",
+    "static/media/flept1.jpg": "/clone-BSSM/static/media/flept1.57ca036ae17e0dafad97.jpg",
+    "static/media/NotoSansKR-Regular-Hestia.woff": "/clone-BSSM/static/media/NotoSansKR-Regular-Hestia.0091f12f78433f45526f.woff",
+    "static/media/NotoSansKR-Regular.woff2": "/clone-BSSM/static/media/NotoSansKR-Regular.471553e26cd19e067eb8.woff2",
+    "static/media/NotoSansKR-Medium.woff2": "/clone-BSSM/static/media/NotoSansKR-Medium.c5c73df8a88f854ef6e8.woff2",
+    "index.html": "/clone-BSSM/index.html",
+    "main.d158566d.css.map": "/clone-BSSM/static/css/main.d158566d.css.map",
+    "main.2dcf2e32.js.map": "/clone-BSSM/static/js/main.2dcf2e32.js.map",
+    "787.de4aefd3.chunk.js.map": "/clone-BSSM/static/js/787.de4aefd3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8b56ed9.css",
-    "static/js/main.739cad13.js"
+    "static/css/main.d158566d.css",
+    "static/js/main.2dcf2e32.js"
   ]
 }
